@@ -1,3 +1,13 @@
+#ignoring the local data source
+/UCI*
+#ignoring my output
+tidy_df.txt
+
+
+
+#ignoring project file
+.Rproj
+
 # History files
 .Rhistory
 .Rapp.history
